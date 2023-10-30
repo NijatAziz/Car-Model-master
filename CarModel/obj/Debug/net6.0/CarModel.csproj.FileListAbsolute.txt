@@ -1,0 +1,60 @@
+C:\Users\kzeyn\source\repos\CarModel\CarModel\obj\Debug\net6.0\CarModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzeyn\source\repos\CarModel\CarModel\obj\Debug\net6.0\CarModel.AssemblyInfoInputs.cache
+C:\Users\kzeyn\source\repos\CarModel\CarModel\obj\Debug\net6.0\CarModel.AssemblyInfo.cs
+C:\Users\kzeyn\source\repos\CarModel\CarModel\obj\Debug\net6.0\CarModel.csproj.CoreCompileInputs.cache
+C:\Users\kzeyn\source\repos\CarModel\CarModel\obj\Debug\net6.0\CarModel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kzeyn\source\repos\CarModel\CarModel\obj\Debug\net6.0\CarModel.RazorAssemblyInfo.cache
+C:\Users\kzeyn\source\repos\CarModel\CarModel\obj\Debug\net6.0\CarModel.RazorAssemblyInfo.cs
+C:\Users\kzeyn\source\repos\CarModel\CarModel\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kzeyn\source\repos\CarModel\CarModel\bin\Debug\net6.0\appsettings.json
+C:\Users\kzeyn\source\repos\CarModel\CarModel\bin\Debug\net6.0\CarModel.staticwebassets.runtime.json
+C:\Users\kzeyn\source\repos\CarModel\CarModel\bin\Debug\net6.0\CarModel.exe
+C:\Users\kzeyn\source\repos\CarModel\CarModel\bin\Debug\net6.0\CarModel.deps.json
+C:\Users\kzeyn\source\repos\CarModel\CarModel\bin\Debug\net6.0\CarModel.runtimeconfig.json
+C:\Users\kzeyn\source\repos\CarModel\CarModel\bin\Debug\net6.0\CarModel.dll
+C:\Users\kzeyn\source\repos\CarModel\CarModel\bin\Debug\net6.0\CarModel.pdb
+C:\Users\kzeyn\source\repos\CarModel\CarModel\obj\Debug\net6.0\staticwebassets\msbuild.CarModel.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kzeyn\source\repos\CarModel\CarModel\obj\Debug\net6.0\staticwebassets\msbuild.build.CarModel.props
+C:\Users\kzeyn\source\repos\CarModel\CarModel\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CarModel.props
+C:\Users\kzeyn\source\repos\CarModel\CarModel\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CarModel.props
+C:\Users\kzeyn\source\repos\CarModel\CarModel\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kzeyn\source\repos\CarModel\CarModel\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kzeyn\source\repos\CarModel\CarModel\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kzeyn\source\repos\CarModel\CarModel\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kzeyn\source\repos\CarModel\CarModel\obj\Debug\net6.0\scopedcss\bundle\CarModel.styles.css
+C:\Users\kzeyn\source\repos\CarModel\CarModel\obj\Debug\net6.0\scopedcss\projectbundle\CarModel.bundle.scp.css
+C:\Users\kzeyn\source\repos\CarModel\CarModel\obj\Debug\net6.0\CarModel.dll
+C:\Users\kzeyn\source\repos\CarModel\CarModel\obj\Debug\net6.0\refint\CarModel.dll
+C:\Users\kzeyn\source\repos\CarModel\CarModel\obj\Debug\net6.0\CarModel.pdb
+C:\Users\kzeyn\source\repos\CarModel\CarModel\obj\Debug\net6.0\CarModel.genruntimeconfig.cache
+C:\Users\kzeyn\source\repos\CarModel\CarModel\obj\Debug\net6.0\ref\CarModel.dll
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\bin\Debug\net6.0\appsettings.json
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\bin\Debug\net6.0\CarModel.staticwebassets.runtime.json
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\bin\Debug\net6.0\CarModel.exe
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\bin\Debug\net6.0\CarModel.deps.json
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\bin\Debug\net6.0\CarModel.runtimeconfig.json
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\bin\Debug\net6.0\CarModel.dll
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\bin\Debug\net6.0\CarModel.pdb
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\obj\Debug\net6.0\CarModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\obj\Debug\net6.0\CarModel.AssemblyInfoInputs.cache
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\obj\Debug\net6.0\CarModel.AssemblyInfo.cs
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\obj\Debug\net6.0\CarModel.csproj.CoreCompileInputs.cache
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\obj\Debug\net6.0\CarModel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\obj\Debug\net6.0\CarModel.RazorAssemblyInfo.cache
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\obj\Debug\net6.0\CarModel.RazorAssemblyInfo.cs
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\obj\Debug\net6.0\staticwebassets\msbuild.CarModel.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\obj\Debug\net6.0\staticwebassets\msbuild.build.CarModel.props
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CarModel.props
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CarModel.props
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\obj\Debug\net6.0\scopedcss\bundle\CarModel.styles.css
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\obj\Debug\net6.0\scopedcss\projectbundle\CarModel.bundle.scp.css
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\obj\Debug\net6.0\CarModel.dll
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\obj\Debug\net6.0\refint\CarModel.dll
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\obj\Debug\net6.0\CarModel.pdb
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\obj\Debug\net6.0\CarModel.genruntimeconfig.cache
+C:\Users\Azizn\OneDrive\İş masası\Car-Model-master\CarModel\obj\Debug\net6.0\ref\CarModel.dll

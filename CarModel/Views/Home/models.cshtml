@@ -1,0 +1,14 @@
+﻿
+
+@model List<Model>
+
+
+<h1>Modeller</h1>
+<ul>
+    @foreach (var model in Model)
+    {
+        <li>
+            <a asp-page="./Cars" asp-route-modelId="@(model.ID)">@(model.Name) </a>
+        </li>
+    }
+</ul>

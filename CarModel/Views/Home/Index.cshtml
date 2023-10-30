@@ -1,0 +1,43 @@
+﻿@model List<Car>
+
+<h2>Araba Listesi</h2>
+
+@using (Html.BeginForm("FiltrModel", "Home"))
+{
+    <label>Marka: </label>
+    @Html.DropDownList("modelID", new SelectList(Model.Select(a => a.CarModel), "ID", "Name"))
+    <input type="submit" value="Filtrele">
+}
+
+@using (Html.BeginForm("FiltrColor", "Home"))
+{
+    <label>Renk: </label>
+    @Html.DropDownList("colorID", new SelectList(Model.Select(a => a.CarBrand), "ID", "Name"))
+    <input type="submit" value="Filtrele">
+}
+
+@using (Html.BeginForm("FiltrModelAndBrands", "Home"))
+{
+    <label>Marka: </label>
+    @Html.DropDownList("modelID", new SelectList(Model.Select(a => a.CarModel), "ID", "Name"))
+    <label>Renk: </label>
+    @Html.DropDownList("colorID", new SelectList(Model.Select(a => a.CarBrand), "ID", "Name"))
+    <input type="submit" value="Filtrele">
+}
+
+<table>
+    <tr>
+        <th>Model</th>
+        <th>Brand</th>
+        <th>Cars</th>
+    </tr>
+    @foreach (var car in Model)
+    {
+        <tr>
+            <td>@car.CarModel.Name</td>
+            <td>@car.CarBrand.Name</td>
+            <td>@car.Name</td>
+        </tr>
+    }
+</table>
+
